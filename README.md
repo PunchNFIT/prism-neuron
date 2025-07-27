@@ -30,7 +30,7 @@ Traditional neural architectures excel at statistical pattern recognition but la
   author={Seun Ola},
   year={2025},
   journal={GitHub Preprint},
-  url={https://PunchNFIT.github.io/prism-neuron},
+  url={https://github.com/PunchNFIT/prism-neuron},
   note={Preprint submitted for publication}
 }
 ```
@@ -39,7 +39,7 @@ Traditional neural architectures excel at statistical pattern recognition but la
 
 ## 🔗 Live Page
 
-Visit: [https://PunchNFIT.github.io/prism-neuron]
+Visit: [https://github.com/PunchNFIT/prism-neuron]
 
 ---
 
