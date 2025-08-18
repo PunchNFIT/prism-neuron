@@ -48,3 +48,5 @@ Visit: [https://github.com/PunchNFIT/prism-neuron]
 **Seun Ola**  
 CEO/Researcher, 366 Degree FitTech & Sci Institute  
 Pioneering Emotion-Centered AGI Design
+
+“Substrate-Prism™ and Neuron Prism™ are trademarks of 366 Degree FitTech & Sci Institute. The code is open source; the trademarks may be used only to refer to the project and may not imply endorsement or affiliation.”
